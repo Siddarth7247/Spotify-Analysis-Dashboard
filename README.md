@@ -11,13 +11,28 @@ The **Spotify Analysis Dashboard** provides in-depth insights into Spotify music
   5.**Time-Based Trends** – Identify trends in **streaming activity** based on **daily, weekly, or monthly data**.  
   6.**Interactive Visuals** – Dynamic filters, slicers, and drill-downs for better exploration.
 
-##  Data Source
- 1.**Dataset:** Spotify Tracks & Audio Features.
- 2.**Source:**  Kaggle Dataset.
- 3.**Data Fields:**
-  -**Track Name, Artist, Genre, Popularity, Duration, Release Date**.
-  -**Audio Features:** Danceability, Energy, Tempo, Loudness, Valence, etc.
-  -**User Engagement Metrics:** Play Count, Skip Rate, Listener Retention.
+## DataSource
+### 1️.Dataset
+**Spotify Tracks & Audio Features**
+
+### 2️.Source
+**Kaggle Dataset**
+
+### 3.Data Fields:
+####  Track Information:
+- **Track Name**  
+- **Artist**  
+- **Genre**  
+- **Popularity**  
+- **Duration**  
+- **Release Date**  
+
+####  Audio Features:
+- **Danceability**  
+- **Energy**  
+- **Tempo**  
+- **Loudness**  
+- **Valence**  
 
 ##  Power BI Visualizations Used
  **Bar Charts** – Top Artists & Songs by Popularity  
