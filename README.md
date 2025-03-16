@@ -12,12 +12,8 @@ The **Spotify Analysis Dashboard** provides in-depth insights into Spotify music
   6.**Interactive Visuals** – Dynamic filters, slicers, and drill-downs for better exploration.
 
 ## DataSource
-### 1️.Dataset
-**Spotify Tracks & Audio Features**
-
-### 2️.Source
-**Kaggle Dataset**
-
+### 1️.Dataset : **Spotify Tracks & Audio Features**
+### 2️.Source : **Kaggle Dataset**
 ### 3.Data Fields:
 ####  Track Information:
 - **Track Name**  
@@ -26,7 +22,6 @@ The **Spotify Analysis Dashboard** provides in-depth insights into Spotify music
 - **Popularity**  
 - **Duration**  
 - **Release Date**  
-
 ####  Audio Features:
 - **Danceability**  
 - **Energy**  
